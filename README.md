@@ -55,7 +55,7 @@ The primary goal of server-cloner is to provide a streamlined and reliable solut
 
 5.  **Configure environment variables:**
 
-    *   Create a `.env` file in the project root directory based on the `example.env` file.
+    *   Create a `.env` file in the project root directory.
     *   Populate the `.env` file with your Discord bot token.
 
     ```bash
