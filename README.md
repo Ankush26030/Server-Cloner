@@ -1,7 +1,6 @@
 # server-cloner
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
-[![License: Unlicensed](https://img.shields.io/badge/license-Unlicensed-red)](https://unlicense.org/)
 [![Discord.js](https://img.shields.io/badge/discord.js-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.js.org/)
 
 📝 veilcy-cloner is a selfbot designed to clone Discord servers. It allows users to create a complete replica of a Discord server, including channels, roles, categories, permissions, and settings, onto a new or existing Discord server. This tool is intended for users who want to quickly and efficiently migrate a server structure or create backup copies for security or testing purposes.
