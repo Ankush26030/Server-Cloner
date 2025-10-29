@@ -58,9 +58,6 @@ The primary goal of server-cloner is to provide a streamlined and reliable solut
     *   Create a `.env` file in the project root directory.
     *   Populate the `.env` file with your Discord bot token.
 
-    ```bash
-    cp example.env .env
-    ```
 
     Edit `.env` and add the following (replace with your actual token):
 
