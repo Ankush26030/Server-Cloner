@@ -1,9 +1,9 @@
-# server-cloner
+# Server-Cloner
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![Discord.js](https://img.shields.io/badge/discord.js-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.js.org/)
 
-📝 server-cloner is a selfbot designed to clone Discord servers. It allows users to create a complete replica of a Discord server, including channels, roles, categories, permissions, and settings, onto a new or existing Discord server. This tool is intended for users who want to quickly and efficiently migrate a server structure or create backup copies for security or testing purposes.
+📝 Server-Cloner is a selfbot designed to clone Discord servers. It allows users to create a complete replica of a Discord server, including channels, roles, categories, permissions, and settings, onto a new or existing Discord server. This tool is intended for users who want to quickly and efficiently migrate a server structure or create backup copies for security or testing purposes.
 
 This selfbot leverages the Discord API through the discord.js library to interact with the Discord platform.  It automates the tedious process of manually recreating a server's infrastructure. It efficiently handles large servers with complex permission structures. The cloner is designed to be customizable, allowing users to tailor the cloning process to their specific needs and preferences. This project is best suited for experienced Discord users and developers who understand the implications of using selfbots and are aware of Discord's Terms of Service regarding automation.
 
